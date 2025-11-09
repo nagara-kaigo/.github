@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: 不具合の報告
-title: ''
+title: '<!-- ラベルを必ずつけること！ -->'
 labels: bug
 assignees: ''
 
