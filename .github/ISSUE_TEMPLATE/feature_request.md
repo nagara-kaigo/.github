@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: 機能要望・改善提案
-title: ''
+title: '<!-- ラベルを必ずつけること！ -->'
 labels: 'enhancement'
 assignees: ''
 
